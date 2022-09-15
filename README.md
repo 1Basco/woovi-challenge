@@ -2,8 +2,8 @@
 
 ### TODO:
 
-- [] Make the server side workable and replayable (Is not running yet but i will figure it out)
-- [] Start FrontEnd with NextJS(maybe) and Relay
+- [ ] Make the server side workable and replayable (Is not running yet but i will figure it out)
+- [ ] Start FrontEnd with NextJS(maybe) and Relay
 
 ### Possible idea for CRUD (can be changed later)
 
